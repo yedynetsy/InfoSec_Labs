@@ -1,0 +1,19 @@
+# Специфічне для Mac
+.DS_Store
+
+venv/
+env/
+.venv/
+
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+
+*.enc
+*.rsa
+*.sig
+*.txt
+
+*.pem
